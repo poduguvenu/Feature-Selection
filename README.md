@@ -8,3 +8,4 @@ Feature Selection Using Information Gain
 
 Feature Selection - Mutual Information - Regression Problem Statements
 
+Feature Selection Techniques
